@@ -1,5 +1,4 @@
-### Hi there 👋
-
+\
 <!--
 **endsalone/endsalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Ernandes Leite de Almeida Guedes 🤘
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ernandesguedes/)](https://www.linkedin.com/in/ernandesguedes/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=endsalone)](https://github.com/endsalone)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endsalone&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=20&hide=ruby,puppet,shell,c,perl)](https://github.com/endsalone)
